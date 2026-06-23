@@ -7,15 +7,15 @@
 <p align="center"><strong>A 10-stage cyber-heist CTF. Breach the nodes. Recover the master key. Purge the Syndicate.</strong></p>
 
 <p align="center">
-  <a href="https://rickshield-ctf.vercel.app"><img src="https://img.shields.io/badge/▶_PLAY_NOW-rickshield--ctf.vercel.app-33ff77?style=for-the-badge&labelColor=00060e" alt="Play now" /></a>
+  <a href="https://rickshield-ctf.vercel.app"><img src="https://img.shields.io/badge/PLAY_NOW-rickshield--ctf.vercel.app-33ff77?style=for-the-badge&labelColor=00060e" alt="Play now" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-live-33ff77?style=flat-square&labelColor=00060e" alt="Live" />
-  <img src="https://img.shields.io/badge/stages-10_+_bonus-fee801?style=flat-square&labelColor=00060e" alt="10 stages" />
+  <img src="https://img.shields.io/badge/stages-10_plus_bonus-fee801?style=flat-square&labelColor=00060e" alt="10 stages" />
   <img src="https://img.shields.io/badge/format-jeopardy-54c1e6?style=flat-square&labelColor=00060e" alt="Jeopardy" />
   <img src="https://img.shields.io/badge/play-solo_or_team-39c4b6?style=flat-square&labelColor=00060e" alt="Solo or team" />
-  <img src="https://img.shields.io/badge/skills-web·crypto·forensics·re·osint·ai-ff3a3a?style=flat-square&labelColor=00060e" alt="Skills" />
+  <img src="https://img.shields.io/badge/skills-web_crypto_forensics_re_osint_ai-ff3a3a?style=flat-square&labelColor=00060e" alt="Skills" />
 </p>
 
 <p align="center">
